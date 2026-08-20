@@ -38,7 +38,7 @@ public class contohinterface {
         kendaraan.bergerak();
         kendaraan.berhenti();
 
-        System.out.println();
+        System.out.println("-------");
 
         kendaraan = new Mobil();
         kendaraan.bergerak();
